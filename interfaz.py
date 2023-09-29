@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import *
-from interfazFunciones import InterfazFunciones
+from calculadoraPoo.funciones import InterfazFunciones
 from calculadoraBase import Aritmetica, Trigonometrica
 
 class InterfazCalculadora:
